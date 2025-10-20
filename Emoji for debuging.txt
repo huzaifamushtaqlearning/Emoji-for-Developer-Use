@@ -1,0 +1,79 @@
+1️⃣ Debugging / Development Logs
+🪲	Bug / debugging log
+🧠	Info for understanding logic
+🔍	Inspect / checking value
+🧩	Component / module log
+🧱	Backend or API log
+🧵	Thread / async log
+🧮	Calculation / computation log
+🧰	Developer tools / internal utility
+
+2️⃣ Warnings & Cleanup
+🚨	Critical warning — must fix / remove before production ✅
+⚠️	General warning / risky area
+🧹	Cleanup / refactor reminder
+🧯	Fire control — prevent issue
+🚧	Work in progress / under construction
+⛔	Forbidden / blocked operation
+🕳️	Potential bug / hole in logic
+🧨	Dangerous code — handle carefully
+
+
+3️⃣ Success / Done / OK
+✅	Success / passed test
+🎯	Target achieved
+🟢	Operation complete / connected
+🚀	Deployed / started successfully
+💾	Saved / persisted to DB
+📦	Build successful / packaged
+🔒	Auth success / secure
+
+4️⃣ Errors / Failures
+❌	Failed / invalid
+🛑	Stop immediately / fatal error
+🚫	Access denied / invalid token
+🔥	Crash / breaking issue
+💣	Explosive error / throw
+🧟	Dead code / unused function
+🤯	Unexpected result
+🧊	Frozen / unresponsive state
+
+
+5️⃣ Files / Logs / Tracking
+📂	File name / file ref ✅
+📁	Folder / module path
+📜	Logs / output
+🧾	API response
+📦	Package / dependency
+📍	Line number / location ✅
+🕓	Timestamp log
+🧭	Route / navigation trace
+
+6️⃣ Comments / Documentation
+🧠	Explanation / note
+✏️	Edit / TODO reminder
+🗒️	Important note
+🧾	API details
+💡	Tip / idea
+📚	Reference / documentation
+🔖	Bookmark / mark section
+🧩	Component name
+
+7️⃣ Code Maintenance
+🧹	Refactor required
+🧩	Combine / merge logic
+⚙️	Config related
+🧷	Temporary fix
+🪛	Adjusting functionality
+🧱	Backend infrastructure
+🧶	Cleanup threads / cache
+
+8️⃣ Team Collaboration / Commits
+🧑‍💻	Developer added feature
+🪄	Code improvement / magic fix
+🧾	Updated docs
+💬	Commented / discussed
+🧭	Navigation / route update
+🔁	Refactored logic
+♻️	Recycled code / cleanup
+🧷	Quick patch
